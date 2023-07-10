@@ -1,0 +1,11 @@
+{
+    "name": "Miami Weather",
+    "version": "1.0.0",
+    "description": "latest weather status in Miami, FL",
+    "manifest_version": 3,
+    "author": "Kent Phipps",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest Weather Report"
+    }
+}
